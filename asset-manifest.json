@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c4ba28f.chunk.css",
+    "main.js": "/static/js/main.f4e38794.chunk.js",
+    "main.js.map": "/static/js/main.f4e38794.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.57cd96c8.chunk.js": "/static/js/2.57cd96c8.chunk.js",
+    "static/js/2.57cd96c8.chunk.js.map": "/static/js/2.57cd96c8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7366f2858f275a5be5de5f69aa5e498f.js": "/precache-manifest.7366f2858f275a5be5de5f69aa5e498f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2c4ba28f.chunk.css.map": "/static/css/main.2c4ba28f.chunk.css.map",
+    "static/js/2.57cd96c8.chunk.js.LICENSE.txt": "/static/js/2.57cd96c8.chunk.js.LICENSE.txt",
+    "static/media/SenjuPrac.PNG": "/static/media/SenjuPrac.dfd192bb.PNG",
+    "static/media/App.css": "/static/media/SunsetHeader.57c21f25.JPG",
+    "static/media/code-24px.svg": "/static/media/code-24px.7f060fd7.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/plantsrobots.png": "/static/media/plantsrobots.1015dd31.png",
+    "static/media/stickytongue.png": "/static/media/stickytongue.1a1199fa.png",
+    "static/media/traveleasii.png": "/static/media/traveleasii.0c7a696f.png",
+    "static/media/verified-24px.svg": "/static/media/verified-24px.58dc1627.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.57cd96c8.chunk.js",
+    "static/css/main.2c4ba28f.chunk.css",
+    "static/js/main.f4e38794.chunk.js"
+  ]
+}
